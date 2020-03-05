@@ -6,7 +6,7 @@ public class infinitelist {
 		ArrayList<String> list=new ArrayList<String>();
 		list.add("epam");
 		list.add("collection");
-		list.add("webinar");
+		list.add("webina");
 		for(String x: list)
 		{
 			System.out.print(x+" ");
